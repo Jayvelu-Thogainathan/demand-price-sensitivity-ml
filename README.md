@@ -17,4 +17,4 @@ The work focuses on interpretability and model reliability, using standard data 
 - `visuals/` – Plots and visual outputs generated during analysis  
 
 ## Status
-Project setup complete. Analysis and modeling notebooks will be added incrementally.
+Repository initialized with project scope and structure.
